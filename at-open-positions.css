@@ -98,7 +98,7 @@
 }
 
 body, td, div, span, p, button, input, .google-visualization-table-table {
-  /*font-family: 'Cambay', sans-serif!important;*/
+  font-family: 'Cambay', sans-serif!important;
   color: #444444;
 }
 a {
